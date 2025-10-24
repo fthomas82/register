@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "febin82",
+    "email": "febin.thomas@milestone.tech"
+  },
+  "records": {
+    "CNAME": "is-a-dev-docs.pages.dev"
+  },
+  "proxied": true
+}
